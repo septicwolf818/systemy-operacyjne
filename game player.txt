@@ -1,0 +1,8 @@
+<object width="425" height="353">
+<param name="movie" value="http://g1.cda.pl/games5/22a262c6ab8364374bf7a648beec27ad.swf">
+</param>
+<param name="wmode" value="transparent">
+</param>
+<embed src="http://g1.cda.pl/games5/22a262c6ab8364374bf7a648beec27ad.swf" type="application/x-shockwave-flash" wmode="transparent" width="425" height="353">
+</embed>
+</object>
